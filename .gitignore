@@ -1,0 +1,13 @@
+# PyCharm specific
+.idea/*
+
+media/*
+*.DS_Store
+util/*.jpg
+emotion.txt
+media/*
+*.DS_Store
+util/*.jpg
+emotion.txt
+sandbox.py
+emotion_logging.txt
